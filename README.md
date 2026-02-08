@@ -252,7 +252,3 @@ MIT
 
 ---
 
-After this, next high-impact step:
-👉 Add **2 screenshots + 1 GIF demo** — that alone multiplies shortlist chances.
-
-Tell me once your backend runs; I’ll guide you how to generate a clean demo recording recruiters love.
